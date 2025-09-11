@@ -47,7 +47,12 @@ http://supersonictv.live:8080/Allen123/Allen123/7630
 http://supersonictv.live:8080/Allen123/Allen123/7632
 #EXTINF:-1,tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1s05qqmsbs2rr113rlpmwh8llz_image-header_pRow_1720521735000" group-title="PT ELEVEN SPORT",ELEVEN SPORTS 5 SD
 http://supersonictv.live:8080/Allen123/Allen123/7634
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/dz/DZSerieA.png" group-title="PT DAZN SPORT",DAZN SPORT SERIE A
+https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/dz/DALaliga1.png" group-title="PT DAZN SPORT",DAZN SPORT LALIGA 1
+https://wahyu1ptv.pages.dev/DaznLaliga1-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/dz/DALaliga2.png" group-title="PT DAZN SPORT",DAZN SPORT LALIGA 2
+https://wahyu1ptv.pages.dev/DaznLaliga2-HD.m3u8
 
 
 ###SPORT TV###
@@ -191,6 +196,7 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+
 
 
 
