@@ -56,6 +56,30 @@ https://wahyu1ptv.pages.dev/DaznLaliga2-HD.m3u8
 
 
 
+###SPORT TV###
+#EXTINF:-1,tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png" group-title="SPORT TV",SPORT TV 1 FHD
+http://cord-cutter.net:8080/live/8fRQNT/761091/167742.m3u8
+#EXTINF:-1,tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png" group-title="SPORT TV",SPORT TV 2 FHD
+http://cord-cutter.net:8080/live/8fRQNT/761091/167743.m3u8
+#EXTINF:-1,tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fjy5d31700902671.png" group-title="SPORT TV",SPORT TV 3 FHD
+http://cord-cutter.net:8080/live/8fRQNT/761091/167744.m3u8
+#EXTINF:-1,tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png" group-title="SPORT TV",SPORT TV 4 FHD
+http://cord-cutter.net:8080/live/8fRQNT/761091/167745.m3u8
+#EXTINF:-1,tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ldsp6c1700902696.png" group-title="SPORT TV",SPORT TV 5 FHD
+http://cord-cutter.net:8080/live/8fRQNT/761091/167746.m3u8
+#EXTINF:-1,tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png" group-title="SPORT TV",SPORT TV 1 HD
+http://supersonictv.live:8080/Allen123/Allen123/7705
+#EXTINF:-1,tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png" group-title="SPORT TV",SPORT TV 2 HD
+http://supersonictv.live:8080/Allen123/Allen123/7707
+#EXTINF:-1,tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fjy5d31700902671.png" group-title="SPORT TV",SPORT TV 3 HD
+http://supersonictv.live:8080/Allen123/Allen123/7709
+#EXTINF:-1,tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png" group-title="SPORT TV",SPORT TV 4 HD
+http://supersonictv.live:8080/Allen123/Allen123/7711
+#EXTINF:-1,tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ldsp6c1700902696.png" group-title="SPORT TV",SPORT TV 5 HD
+http://supersonictv.live:8080/Allen123/Allen123/7714
+
+
+
 ###SUPERSPORT TV###
 #EXTINF:-1,[AF] S LaLiga FHD tvg-logo="https://devcdn.24.co.za/files/supersport/204.png" group-title="SUPERSPORTS",S LaLiga
 http://supersonictv.live:8080/Allen123/Allen123/86861
@@ -173,6 +197,7 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+
 
 
 
