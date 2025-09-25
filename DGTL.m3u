@@ -1,0 +1,42 @@
+#EXTM3U
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/mnctv.png" group-title="DIGITAL TV",MNC TV HD
+http://103.66.62.83:8000/play/a06j/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/rcti.png" group-title="DIGITAL TV",RCTI HD
+http://103.66.62.83:8000/play/a06k/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/sctv.png" group-title="DIGITAL TV",SCTV HD 
+http://103.66.62.83:8000/play/a068/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/indosiar.png" group-title="DIGITAL TV",INDOSIAR HD
+http://103.66.62.83:8000/play/a069/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/mojitv.png" group-title="DIGITAL TV",MOJI HD
+http://103.66.62.83:8000/play/a06a/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/gtv.png" group-title="DIGITAL TV",GTV HD
+http://103.66.62.83:8000/play/a06h/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/trans7.png" group-title="DIGITAL TV",TRANS 7 HD
+http://103.66.62.83:8000/play/a06l/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/transtv.png" group-title="DIGITAL TV",TRANS TV HD
+http://103.66.62.83:8000/play/a06i/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/antv.png" group-title="DIGITAL TV",ANTV HD
+http://103.66.62.83:8000/play/a06o/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/tvrisport.png" group-title="DIGITAL TV",TVRI SPORT
+http://103.66.62.83:8000/play/a06r/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/tvone.png" group-title="DIGITAL TV",TVONE HD
+http://103.66.62.83:8000/play/a06n/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/mentari.png" group-title="DIGITAL TV",MENTARI HD
+http://103.66.62.83:8000/play/a06b/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/metrotv.png" group-title="DIGITAL TV",METRO TV HD
+http://103.66.62.83:8000/play/a06c/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/cnbcindonesia.png" group-title="DIGITAL TV",CNBC INDONESIA
+http://103.66.62.83:8000/play/a06d/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/cnnindonesia.png" group-title="DIGITAL TV",CNN INDONESIA
+http://103.66.62.83:8000/play/a06e/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/kompastv.png" group-title="DIGITAL TV",KOMPAS TV
+http://103.66.62.83:8000/play/a06m/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/mdtv.png" group-title="DIGITAL TV",MDTV
+http://103.66.62.83:8000/play/a06u/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/rtv.png" group-title="DIGITAL TV",RTV HD
+http://103.66.62.83:8000/play/a06v/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/tvriworld.png" group-title="DIGITAL TV",TVRI WORLD
+http://103.66.62.83:8000/play/a06q/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/vtv.png" group-title="DIGITAL TV",VTV HD
+http://103.66.62.83:8000/play/a06g/index.m3u8
