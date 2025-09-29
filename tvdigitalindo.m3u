@@ -12,6 +12,8 @@ http://103.66.62.83:8000/play/a069/index.m3u8
 http://103.66.62.83:8000/play/a06a/index.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/gtv.png" group-title="DIGITAL TV",GTV HD
 http://103.66.62.83:8000/play/a06h/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/inews.png" group-title="DIGITAL TV",INEWS HD
+http://103.66.62.83:8000/play/a06f/index.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/trans7.png" group-title="DIGITAL TV",TRANS 7 HD
 http://103.66.62.83:8000/play/a06l/index.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/transtv.png" group-title="DIGITAL TV",TRANS TV HD
@@ -40,4 +42,5 @@ http://103.66.62.83:8000/play/a06v/index.m3u8
 http://103.66.62.83:8000/play/a06q/index.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/vtv.png" group-title="DIGITAL TV",VTV HD
 http://103.66.62.83:8000/play/a06g/index.m3u8
+
 
