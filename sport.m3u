@@ -66,7 +66,7 @@ https://wahyu1ptv.pages.dev/DaznLaliga2-HD.m3u8
 
 
 
-###SPORT TV###
+###SPORTS TV###
 #EXTINF:-1,tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png" group-title="SPORT TV",SPORT TV 1 HD
 http://supersonictv.live:8080/Allen123/Allen123/7705
 #EXTINF:-1,tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png" group-title="SPORT TV",SPORT TV 2 HD
@@ -145,20 +145,6 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/tnt/Tnt1.png" group-title="TNT SPORT",TNT SPORT 1 FHD
-#http://my.bianet.es.vip.hk:80///p//y/kontol26/697061
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/tnt/Tnt2.png" group-title="TNT SPORT",TNT SPORT 2 FHD
-#http://my.bianet.es.vip.hk:80///p//y/kontol26/697059
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/tnt/Tnt3.png" group-title="TNT SPORT",TNT SPORT 3 FHD
-#http://my.bianet.es.vip.hk:80///p//y/kontol26/697058
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/tnt/Tnt4.png" group-title="TNT SPORT",TNT SPORT 4 FHD
-#http://my.bianet.es.vip.hk:80///p//y/kontol26/697060
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/tnt/Tnt5.png" group-title="TNT SPORT",TNT SPORT 5 FHD
-#http://my.bianet.es.vip.hk:80///p//y/kontol26/697062
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/tnt/Tnt1.png" group-title="TNT SPORT",TNT SPORT 1
-#http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175184&extension=ts
-
 
 ###BEIN SPORTS###
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-="beinSPORT " tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/bein/Bein1.png" group-title=" BEIN SPORTS", beIN Sports 1 ID
@@ -230,53 +216,6 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 
 
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/bein/Bein1.png", beIN SPROT 1 MY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-#https://cors-proxy.wangzhishi.net/http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Benmy1.m3u8
-
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/bein/Bein2.png", beIN SPROT 2 MY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-#https://cors-proxy.wangzhishi.net/http://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Benmy2.m3u8
-
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/bein/Bein3.png", beiN SPROT 3 MY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-#https://cors-proxy.wangzhishi.net/http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Benmy3.m3u8
-
-#EXTINF:-1 tvg-id="beinSport" tvg-logo="https://thumbor.prod.vidiocdn.com/R5o3HOzN4coNEldIuKjnpawojr4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png" group-title="BEIN SPORT",Bein Sports 1 Video
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6299&type=drm
-#https://spacetv.my.id/index.mpd?id=6299&type=dash
-#EXTINF:-1 tvg-id="beinSport 2" tvg-logo="https://thumbor.prod.vidiocdn.com/HsxPbK2T6gPnpmNmiL4KEApfzz0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17875/afb4ca.png" group-title="BEIN SPORT",Bein Sports 2 Video
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=17875&type=drm
-#https://spacetv.my.id/index.mpd?id=17875&type=dash
-#EXTINF:-1 tvg-id="beinSport 3" tvg-logo="https://thumbor.prod.vidiocdn.com/lKgFAcljoRcYILYnMzYh8dt7Ixw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png" group-title="BEIN SPORT",Bein Sports 3 Video
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6317&type=drm
-#https://spacetv.my.id/index.mpd?id=6317&type=dash
-
-
 ###PRIMA SPORTS###
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Prima_Sport_1_new.svg/revision/latest/scale-to-width-down/150?cb=20220418213615" group-title="PRIMA SPORTS" ,Prima Sport 1 
 #EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
@@ -339,20 +278,6 @@ http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/o
 #KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-
-###МАТЧ###
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/Match/Match_Football_1_HD.png" group-title="Матч",Матч! Футбол 1 HD
-#http://ott.watch/stream/D3FX33QMIH1/130.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/Match/Match_Football_2_HD.png" group-title="Матч",Матч! Футбол 2 HD
-#http://ott.watch/stream/D3FX33QMIH1/142.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/Match/Match_Football_3_HD.png" group-title="Матч",Матч! Футбол 3 HD
-#http://ott.watch/stream/D3FX33QMIH1/185.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/Match/Match_Game.png" group-title="Матч",Матч! Игра HD
-#http://ott.watch/stream/D3FX33QMIH1/188.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/Match/Match_Country.png" group-title="Матч",Матч! СТРАНА HD
-#http://ott.watch/stream/D3FX33QMIH1/143.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/Match/Match_Premier.png" group-title="Матч",Матч! Премьер HD
-#http://ott.watch/stream/D3FX33QMIH1/193.m3u8
 
 
 ####POLSAT SPORT###
@@ -418,12 +343,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/maste
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/Spotv.png" group-title="SPORTS ALL",SpoTV ID
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/Spotv.png" group-title="SPORTS ALL",SpoTV ID
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -456,8 +375,6 @@ https://live-114.myjktv.com:443/watch/live.m3u8?video=sbs_sports_540&sid=zvBmkJ9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003) 
 http://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=dCk6rPUY0pBERsgC2xzzO5QlzIz20f3RTAyLnas0&secret=84927af7841b99ed3d4916a2b4b583b4&time=1696425172|Referer=https://kakotv.com/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/indosiar.png" group-title="SPORTS ALL",INDOSIAR
-#https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.ts
 
 #EXTINF:-1 group-title="SPORTS ALL" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/indosiar.png",INDOSIAR SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -572,4 +489,5 @@ https://live-azd1109.telewebion.com/ek/sport1/live/1080p/index.m3u8
 https://live-azd1109.telewebion.com/ek/sport2/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="TelewebionSport3.ir" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/allsportslogo/telewebionsport.png" group-title="SPORTS ALL",Telewebion Sport 3
 https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8
+
 
