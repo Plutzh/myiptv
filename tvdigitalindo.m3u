@@ -104,7 +104,7 @@ http://103.172.71.153:9981/stream/channelid/1240734457?profile=pass
 
 
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/mnctv.png" group-title="DIGITAL TV",MNC TV HD
-http://103.66.62.83:8000/play/a06j/index.m3u8
+http://103.172.71.153:9981/stream/channelid/1781718036?profile=pass
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/rcti.png" group-title="DIGITAL TV",RCTI HD
 http://103.66.62.83:8000/play/a06k/index.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/sctv.png" group-title="DIGITAL TV",SCTV HD 
@@ -122,7 +122,7 @@ http://103.66.62.83:8000/play/a06l/index.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/transtv.png" group-title="DIGITAL TV",TRANS TV HD
 http://103.66.62.83:8000/play/a06i/index.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/antv.png" group-title="DIGITAL TV",ANTV HD
-http://103.66.62.83:8000/play/a06o/index.m3u8
+http://103.172.71.153:9981/stream/channelid/816721919?profile=pass
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/tvrisport.png" group-title="DIGITAL TV",TVRI SPORT
 http://103.66.62.83:8000/play/a06r/index.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/tvone.png" group-title="DIGITAL TV",TVONE HD
@@ -145,6 +145,7 @@ http://103.66.62.83:8000/play/a06v/index.m3u8
 http://103.66.62.83:8000/play/a06q/index.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/vtv.png" group-title="DIGITAL TV",VTV HD
 http://103.66.62.83:8000/play/a06g/index.m3u8
+
 
 
 
