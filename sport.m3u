@@ -145,7 +145,6 @@ https://vidd.semar.my.id/cobaduarr.mpd?id=17939&type=dash
 #KODIPROP:inputstream.adaptive.license_type= clearkey
 #KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
 https://vidd.semar.my.id/cobaduarr.mpd?id=9180&type=dash
-#https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
 
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://thumbor.prod.vidiocdn.com/RfKLbSky5UzOc6_BnlkZzdQ1hGw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="Champions TV",Champions TV 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -502,6 +501,7 @@ https://live-azd1109.telewebion.com/ek/sport1/live/1080p/index.m3u8
 https://live-azd1109.telewebion.com/ek/sport2/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="TelewebionSport3.ir" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/allsportslogo/telewebionsport.png" group-title="SPORTS ALL",Telewebion Sport 3
 https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8
+
 
 
 
