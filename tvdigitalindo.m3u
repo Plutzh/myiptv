@@ -3,8 +3,9 @@
 http://103.172.71.153:9981/stream/channelid/1781718036?profile=pass
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/rcti.png" group-title="DIGITAL TV",RCTI HD
 http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
-#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/sctv.png" group-title="DIGITAL TV",SCTV HD 
-http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
+#EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/sctv.png" group-title="DIGITAL TV",SCTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-SCTV/playlist.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/indosiar.png" group-title="DIGITAL TV",INDOSIAR HD
 http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/mojitv.png" group-title="DIGITAL TV",MOJI HD
@@ -28,17 +29,21 @@ http://103.172.71.153:9981/stream/channelid/448804330?profile=pass
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/mentari.png" group-title="DIGITAL TV",MENTARI HD
 http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/metrotv.png" group-title="DIGITAL TV",METRO TV HD
-http://103.172.71.153:9981/stream/channelid/540992703?profile=pass
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-METROTV/playlist.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/cnbcindonesia.png" group-title="DIGITAL TV",CNBC INDONESIA
 http://103.172.71.153:9981/stream/channelid/392679228?profile=pass
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/cnnindonesia.png" group-title="DIGITAL TV",CNN INDONESIA
 http://103.172.71.153:9981/stream/channelid/106547497?profile=pass
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/kompastv.png" group-title="DIGITAL TV",KOMPAS TV
-http://103.66.62.83:8000/play/a06m/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/mdtv.png" group-title="DIGITAL TV",MDTV
 http://103.170.33.11:9981/stream/channelid/1414401938?profile=pass
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/rtv.png" group-title="DIGITAL TV",RTV HD
 http://103.170.33.11:9981/stream/channelid/97833158?profile=pass
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-RAJAWALITV/playlist.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/tvriworld.png" group-title="DIGITAL TV",TVRI WORLD
 http://103.66.62.83:8000/play/a06q/index.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/indotv/vtv.png" group-title="DIGITAL TV",VTV HD
